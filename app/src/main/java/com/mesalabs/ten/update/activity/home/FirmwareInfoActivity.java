@@ -59,9 +59,6 @@ public class FirmwareInfoActivity extends BaseAppBarActivity {
         // Android Version
         CardView kernel = findViewById(R.id.mesa_card_kernel_ota_firmwareinfo);
         setFwInfoCardSummary(kernel, FirmwareInfoUtils.getKernelVersion());
-        // Build Number
-        CardView bn = findViewById(R.id.mesa_card_build_ota_firmwareinfo);
-        setFwInfoCardSummary(bn, BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY));
         // Security Patch
         CardView sp = findViewById(R.id.mesa_card_patch_ota_firmwareinfo);
         setFwInfoCardSummary(sp, FirmwareInfoUtils.getSecurityPatchVersion());
