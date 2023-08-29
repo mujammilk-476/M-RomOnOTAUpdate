@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>Mujammils Rom</RomName>
-  <VersionName>20230801 Update</VersionName>
-  <BuildNumber type="integer">20230801</BuildNumber>
+  <VersionName>v3.3.2 Update</VersionName>
+  <BuildNumber type="integer">v3.3.2</BuildNumber>
   <DownloadURL>https://github.com/mujammilk-476/Mujammils-Rom/releases/download/MRomOtaUpdate/M-ROM.OTA.A71.v3.3.2.zip</DownloadURL>
   <AndroidVer>13</AndroidVer>
   <OneUIVer>5.1</OneUIVer>
