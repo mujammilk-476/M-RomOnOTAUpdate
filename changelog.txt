@@ -1,2 +1,3 @@
-Added Custom BootAnimation Support
-Fixed Nfc
+Fixed Camera Bug
+Fixed Speaker Sound Bug
+Fixed Fingerprint Bug
