@@ -3,12 +3,12 @@
   <RomName>SlimSang Rom</RomName>
   <VersionName>20230901 Update</VersionName>
   <BuildNumber type="integer">20230901</BuildNumber>
-  <DownloadURL>https://github.com/mujammilk-476/Mujammils-Rom/releases/download/MRomOtaUpdate/M-ROM.OTA.A71.v3.3.2.zip</DownloadURL>
+  <DownloadURL>https://slimsangrom2.onxy.workers.dev/download.aspx?file=Uj0NDLnDVq7CI%2FmFFld8Xz%2Fu5uz3pxQ%2BMfy7zbKexW3gKwJIs6S1rvWbmyb%2F4Lie&expiry=NtZ%2Fq1hRIbATlG5EcwR0kQ%3D%3D&mac=0d89b753508373a0a8ae01886bf985ab30778da2a6d08ca9f1fdc501bcdf5a8b</DownloadURL>
   <AndroidVer>13</AndroidVer>
   <OneUIVer>5.1</OneUIVer>
   <CheckMD5>1f7a0d5e41b70dd7c2ca6b20ade1ccfa</CheckMD5>
   <FileSize type="long">16479896</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
-  <ChangelogHeader>https://raw.githubusercontent.com/mujammilk-476/M-RomOnOTAUpdate/r9s/updatelogo.png</ChangelogHeader>
+  <ChangelogHeader>https://raw.githubusercontent.com/mujammilk-476/M-RomOnOTAUpdate/r9s/r9s.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/mujammilk-476/M-RomOnOTAUpdate/r9s/changelog.txt</ChangelogURL>
 </OnOTAInfo>
