@@ -1,2 +1,1 @@
-Added Custom BootAnimation Support
-Fixed Nfc
+Initial release
