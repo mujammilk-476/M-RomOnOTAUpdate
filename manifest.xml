@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>IshiharaRom</RomName>
-  <VersionName>20240978 Update</VersionName>
-  <BuildNumber type="integer">20240201</BuildNumber>
+  <VersionName>20231101 Update</VersionName>
+  <BuildNumber type="integer">20231101</BuildNumber>
   <DownloadURL>https://onedrive.live.com/download?resid=2633095D54993287%21291&authkey=!AJhF5g3byz5ln5k</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
