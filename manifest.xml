@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
-  <RomName>IshiharaRom</RomName>
+  <RomName>NcX S21FE</RomName>
   <VersionName>20231101 Update</VersionName>
   <BuildNumber type="integer">20231101</BuildNumber>
-  <DownloadURL>https://onedrive.live.com/download?resid=2633095D54993287%21291&authkey=!AJhF5g3byz5ln5k</DownloadURL>
-  <AndroidVer>14</AndroidVer>
-  <OneUIVer>6.0</OneUIVer>
-  <CheckMD5>1f7a0d5e41b70dd7c2ca6b20ade1ccfa</CheckMD5>
-  <FileSize type="long">184798</FileSize>
+  <DownloadURL>https://api.onedrive.com/v1.0/shares/s!AjUnizekeauKlk5Z-M-58ZYBcy-4/root/content</DownloadURL>
+  <AndroidVer>13</AndroidVer>
+  <OneUIVer>5.1</OneUIVer>
+  <CheckMD5>b207e3bf47eea6ba5194a37a8cc85709</CheckMD5>
+  <FileSize type="long">990000000</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
-  <ChangelogURL>https://raw.githubusercontent.com/Ishihara0Xn/OnOTAUpdate/S20/changelog.txt</ChangelogURL>
+  <ChangelogHeader>https://i.ibb.co/92RxppQ/changelogheader1100.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/ShaDisNX255/NcX_OnUpdate/main/a52q/changelog.txt</ChangelogURL>
 </OnOTAInfo>
