@@ -3,10 +3,10 @@
   <RomName>IshiharaRom</RomName>
   <VersionName>20240301 Update</VersionName>
   <BuildNumber type="integer">20240301</BuildNumber>
-  <DownloadURL>https://github.com/Ishihara0Xn/OnOTAUpdate/releases/download/s20/update.1.zip</DownloadURL>
+  <DownloadURL>https://github.com/Ishihara0Xn/OnOTAUpdate/releases/download/S20/1111hotfix.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
-  <CheckMD5>45bf404532dc8bfeb97e9467b31c740a</CheckMD5>
+  <CheckMD5>00c1282efd11c1e4a14d6c9a506f7332</CheckMD5>
   <FileSize type="long">17847989</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogURL>https://raw.githubusercontent.com/Ishihara0Xn/OnOTAUpdate/S20/changelog.txt</ChangelogURL>
