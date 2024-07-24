@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
-  <RomName>Mujammils Rom</RomName>
-  <VersionName>20230901 Update</VersionName>
-  <BuildNumber type="integer">20230901</BuildNumber>
+  <RomName>SharkOs</RomName>
+  <VersionName>20240701 Update</VersionName>
+  <BuildNumber type="integer">20240701</BuildNumber>
   <DownloadURL>https://github.com/mujammilk-476/Mujammils-Rom/releases/download/MRomOtaUpdateA51/ota-a515f-20230903.zip</DownloadURL>
-  <AndroidVer>13</AndroidVer>
-  <OneUIVer>5.1</OneUIVer>
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>6.1</OneUIVer>
   <CheckMD5>4a24b6cbd80fae7bb4702f55a6c5cbc2</CheckMD5>
-  <FileSize type="long">86464635</FileSize>
+  <FileSize type="long">0</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/mujammilk-476/M-RomOnOTAUpdate/a51/updatelogo.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/mujammilk-476/M-RomOnOTAUpdate/a51/changelog.txt</ChangelogURL>
