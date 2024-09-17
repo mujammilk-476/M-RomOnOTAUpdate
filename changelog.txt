@@ -1,2 +1,7 @@
-Added Custom BootAnimation Support
-Fixed Nfc
+Initial release
+
+Added 4K 120FPS in Pro Video Mode
+
+S24U Launcher with rounded corners and smooth animations
+
+RisingUI Charging Sounds
